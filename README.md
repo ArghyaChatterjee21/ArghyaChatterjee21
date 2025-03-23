@@ -13,11 +13,11 @@
 - 🤝 I’m looking for help with **Brain Computer Interface**
 
 - 🏢 I’m currently working at [**National Informatics Centre (NIC)**](https://www.nic.in/).  
-  - Worked on **AI-enabled PDF to PPT generation** and **AI Abhigyan** projects.
+  - Worked on **AI-enabled PDF to PPT generation**, **Crop Liveness Detection**, **Car Liveness Detection** and **AI Abhigyan** projects.
 
 - 📫 How to reach me **arghya.datascience@gmail.com**
 
-- 📄 Know about my experiences [View my Resume](https://drive.google.com/file/d/1jLeRHmVUTMtFIwk_eyvDzlryJ19D3iSb/view?usp=drive_link)
+- 📄 Know about my experiences [View my Resume](https://drive.google.com/file/d/1LIRVhLKqRl7JQLt-SvNYj0lR-FtjVKbO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
